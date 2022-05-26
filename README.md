@@ -22,46 +22,38 @@
 
  - DB_host:
  
-           localhost
+        localhost
  - DB_name: 
 
-         wp_brief9.2
+        wp_brief10
 - DB_username: 
   
-           root   
+        root   
  - DB_password: 
 
-         (passowrd_is_empty)
+        (passowrd_is_empty)
 
 > step 5. Setup username and password of Wordpress admin dashboard
 
  - username:
  
-        saad_e-com
+        wp_brief10
  - password: 
  
-        WJ2nuC(o%sdXVsa24O
+        g5t(h@xXixPVye$Lf7       
 
-> step 6. Add plugins WooCommerce for my store
+> step 6. Creation of 4 files
 
-    - Add 15 products with their properties
-    - Add coupon
+    - contact-form.php : this file for configuration and information about the plugin.
 
-> step 7. Add plugins
+![alt text](/captures/config.PNG)
 
-    - SEO plugin: Yoast SEO is a search engine optimization (SEO) plug-in for WordPress. The plugin has five million active installations and has been downloaded more than 350 million times.
-    - GDPR plugin: The CookieYes GDPR Cookie Consent & Compliance Notice plugin will assist you in making your website GDPR (RGPD, DSVGO) compliant.
-    - Multilanguage plugin: Translate WordPress with GTranslate plugin uses Google Translate automatic translation service to translate wordpress site with Google power and make it multilingual.
+    - dash_Plugin.php: this file is dashboard where display all messages.
+    - formDesign.php : this file is design of the contact form, how it diplay
+    - Setting.php : this file to configure which fields to leave and which to clear from the form.
 
-> step 8. Add Payment method plugin 
+> step 7. Add new page in wordPress dashboard
 
-    - Stripe: The Stripe plugin extends WooCommerce allowing you to take payments directly on your store via Stripe’s API.
+    - add shortCode and link it with the file that i created
 
-> step 9. Connect stripe with my store
 
-    - Creation a stripe account
-    - copier Publishable key and Secret key from stripe and past them in WooCommerce payment settings
-
-> step 10. make product purchase simulation
-
-    - DONE 
