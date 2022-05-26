@@ -49,7 +49,13 @@
 ![alt text](/captures/config.PNG)
 
     - dash_Plugin.php: this file is dashboard where display all messages.
+
+![alt text](/captures/dash.PNG)
+
     - formDesign.php : this file is design of the contact form, how it diplay
+
+![alt text](/captures/Captur.PNG)
+
     - Setting.php : this file to configure which fields to leave and which to clear from the form.
 
 > step 7. Add new page in wordPress dashboard
