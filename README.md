@@ -44,33 +44,33 @@
 
 > step 6. Creation of 4 files
 
-    - contact-form.php : this file for configuration and information about the plugin.
+  - contact-form.php : this file for configuration and information about the plugin.
 
 ![alt text](/captures/config.PNG)
 
-    - dash_Plugin.php: this file is dashboard where display all messages.
+  - dash_Plugin.php: this file is dashboard where display all messages.
 
 ![alt text](/captures/dash.PNG)
 
-    - formDesign.php : this file is design of the contact form, how it diplay
+  - formDesign.php : this file is design of the contact form, how it diplay
 
 ![alt text](/captures/Captur.PNG)
 
-    - Setting.php : this file to configure which fields to leave and which to clear from the form.
+  - Setting.php : this file to configure which fields to leave and which to clear from the form.
 
 ![alt text](/captures/settings.PNG)
 
 > step 7. Test le plugin
 
-       - Before add informations: 
+  - Before add informations: 
 
 ![alt text](/captures/Capture.PNG)
 
-       - Add Informations:
+  - Add Informations:
 
 ![alt text](/captures/Capture1.PNG)
 
-       -After add informations
+  - After add informations
 
 ![alt text](/captures/Capture2.PNG)
 
