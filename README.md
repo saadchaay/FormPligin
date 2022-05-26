@@ -58,8 +58,20 @@
 
     - Setting.php : this file to configure which fields to leave and which to clear from the form.
 
-> step 7. Add new page in wordPress dashboard
+![alt text](/captures/settings.PNG)
 
-    - add shortCode and link it with the file that i created
+> step 7. Test le plugin
+
+       - Before add informations: 
+
+![alt text](/captures/Capture.PNG)
+
+       - Add Informations:
+
+![alt text](/captures/Capture1.PNG)
+
+       -After add informations
+
+![alt text](/captures/Capture2.PNG)
 
 
